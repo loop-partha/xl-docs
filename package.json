@@ -1,0 +1,30 @@
+{
+  "name": "xl-docs",
+  "version": "1.0.0",
+  "description": "api document generator from xitloop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loop-partha/xl-docs.git"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "docs",
+    "api",
+    "documentation",
+    "hapi",
+    "nodejs",
+    "generation"
+  ],
+  "author": "parthasarathy <partha@xitloop.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loop-partha/xl-docs/issues"
+  },
+  "homepage": "https://github.com/loop-partha/xl-docs#readme"
+}
